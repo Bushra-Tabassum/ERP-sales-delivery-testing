@@ -25,14 +25,6 @@ The tested ERP module includes the following major sections:
 ## Business Flow Covered
 The main workflow tested in this project:
 
-Product Portfolio
-        ↓
-Sales Quotation
-        ↓
-Sales Order
-        ↓
-Production Order
-        ↓
-Delivery Challan
-        ↓
-Sales Invoice
+Product Portfolio Sales -> Quotation -> Sales Order -> Production Order -> Delivery Challan -> Sales Invoice
+       
+
